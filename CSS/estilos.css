@@ -1,6 +1,11 @@
 body {
-    background: grey;
-    font-family: Helvetia;
+    background-image: url("https://media.giphy.com/media/fOsAGIEZJGETK/giphy.gif");
+    background-position: center;
+    background-size: cover;
+    font-family: Arial;
+    height:100%;
+    padding:0;
+    margin:0;
   }
   
   .menu {
