@@ -115,6 +115,11 @@ section {
   background-size: 100%;
 }
 
+.portfolio {
+  background-color: rgb(150, 150, 150);
+  background-size: 100%;
+}
+
 .sobre,
 .portfolio {
   margin-bottom: 1.2em;
