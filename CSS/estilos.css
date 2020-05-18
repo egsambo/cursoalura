@@ -9,6 +9,7 @@ body {
   background-image: url("../img/Eder-Equipotel\ 3.jpg");
   background-size: cover;
   background-position: center;
+  background-repeat: no repeat;
   font-family: 'Raleway', sans-serif;
   height: 100vh;
   font-size: 12px;
@@ -113,11 +114,13 @@ a:hover {
 section {
   background-color: whitesmoke;
   background-size: 100%;
+  margin: auto;
 }
 
 .portfolio {
   background-color: rgb(150, 150, 150);
   background-size: 100%;
+  margin: auto;
 }
 
 .sobre,
@@ -125,6 +128,7 @@ section {
   margin-bottom: 1.2em;
   padding: 2em;
   min-height: 100vh;
+  margin: auto;
 }
 
 @media (min-width: 1200px) {
@@ -158,6 +162,7 @@ section {
 .portfolio .grid {
   display: grid;
   gap: 10px;
+  margin: 0;
 }
 
 .portfolio figure {
@@ -235,6 +240,7 @@ section {
   margin-bottom: 1.2em;
   padding: 2em;
   min-height: 30vh;
+  margin: 0;
 }
 
 .contato a {
